@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Arun Senapati,  I'm an Electronics and Communication Engineer interested in VLSI RTL Design & C++ Programming.
+
+
 
 <!--
 **ARUN-apu/Arun-apu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
